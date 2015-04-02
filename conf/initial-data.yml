@@ -1,0 +1,8 @@
+User(asteris):
+  email: asteris.stagkos@gmail.com
+  fullname: Asteris Stagkos-Bell
+  isAdmin: true
+User(joe):
+  email: joe@gmail.com
+  fullname: Joe Smith
+  isAdmin: false
